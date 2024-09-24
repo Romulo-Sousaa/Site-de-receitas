@@ -56,10 +56,19 @@ section {
 div {
     border: solid 0.5px rgb(0, 0, 0);
     border-radius: 10px;
+    overflow: hidden;
 }
 
 div:hover {
     box-shadow: 1px 1px 15px rgb(70, 32, 1);
+}
+
+div img {
+    transition: transform 0.3s ease;
+}
+
+div img:hover {
+    transform: scale(1.1) translateY(-10px);
 }
 
 img {
