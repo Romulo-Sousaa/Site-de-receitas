@@ -1,0 +1,21 @@
+header {
+    padding: 20px;
+    background-color: #f09a2a;
+    border-radius: 4px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    background-color: #f09a2a;
+}
+
+.bolo {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 100;
+    color: #f09a2a;
+}

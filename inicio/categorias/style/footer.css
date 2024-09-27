@@ -1,0 +1,19 @@
+#video {
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid orange;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+iframe {
+    border-radius: 4px;
+}
+
+#text-video {
+    font-weight: 900;
+    text-decoration: underline;
+}

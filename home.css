@@ -11,15 +11,6 @@
     max-width: 1280px;
 }
 
-a {
-    text-decoration: none;
-    color: #f09a2a;
-}
-
-a:hover {
-    color: #ffd59f;
-}
-
 header {
     padding: 20px;
     background-color: #f09a2a;
@@ -69,6 +60,15 @@ div img {
 
 div img:hover {
     transform: scale(1.1) translateY(-10px);
+}
+
+a {
+    text-decoration: none;
+    color: #f09a2a;
+}
+
+a:hover {
+    color: #ffd59f;
 }
 
 img {
