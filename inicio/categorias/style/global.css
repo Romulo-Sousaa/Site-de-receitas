@@ -3,22 +3,12 @@
     margin: 0;
     box-sizing: border-box;
     font: normal 15pt arial;
-    background-color: rgb(252, 243, 232);
+    
 }
 
 .container {
     margin-inline: auto;
     max-width: 1280px;
-}
-
-.text {
-    border: 3px solid orange;
+    background-color: rgb(252, 243, 232);
     border-radius: 4px;
-    height: 40px;
-    text-align: center;
-    padding: 4px;
-}
-
-.margin {
-    margin: 20px 30px;
 }
