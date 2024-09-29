@@ -2,8 +2,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font: normal 15pt arial;
-    
 }
 
 body {
@@ -11,5 +9,6 @@ body {
     margin-inline: auto;
     box-shadow: 1px 1px 10px rgb(156, 156, 156);
     border-radius: 10px;
+    font-family: 'nunito', sans-serif;
 }
 

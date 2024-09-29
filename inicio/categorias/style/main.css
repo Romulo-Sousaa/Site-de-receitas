@@ -6,6 +6,7 @@
     height: 40px;
     background-color: #f09a2a;
     color: white;
+    font-size: 30px;
 }
 
 li {
@@ -51,10 +52,12 @@ th {
     background-color: #ec832e;
     border-radius: 2px;
     color: white;
+    font-size: 20px;
 }
 
 td {
     background-color: #f09307;
     border-radius: 2px;
     color: white;
+    font-size: 20px;
 }
